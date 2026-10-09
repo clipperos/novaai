@@ -1,0 +1,9 @@
+{
+  "name": "nova-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NOVA AI — osobní asistent pro chat i programování (Vercel-ready)",
+  "engines": {
+    "node": ">=18"
+  }
+}
